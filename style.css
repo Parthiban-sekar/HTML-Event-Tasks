@@ -1,0 +1,35 @@
+.container-fluid{ 
+    text-align: center;
+    background:rgb(4, 34, 59);
+    line-height: 2rem;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 0.5ch;
+    padding: 2rem;
+}
+.container-fluid1{
+    background-color: rgb(75, 83, 91);
+    height: 35rem;
+    margin-top: 5rem;
+    border-radius: 2vmax; 
+}
+.img-fluid{
+   position: relative;
+   margin-top: 2rem;
+   border-radius: 2vh;
+}
+#Name{
+width: 25rem;
+height: 2rem;
+}
+.col-md-6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.topbar{
+    line-height: 3rem;
+    color: white;
+    letter-spacing: 0.5ch;
+    padding: 2rem;
+}
